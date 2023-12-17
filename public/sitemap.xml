@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<url>
+  <loc>https://antik-brix.de/</loc>
+    <lastmod>2023-12-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+</url>
+ <url>
+        <loc>https://antik-brix.de/about/</loc>
+          <lastmod>2023-12-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://antik-brix.de/dienste/</loc>
+          <lastmod>2023-12-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        <url>
+        <loc>https://antik-brix.de/ankauf/</loc>
+          <lastmod>2023-12-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+          <url>
+        <loc>https://antik-brix.de/kontakt/</loc>
+          <lastmod>2023-12-15</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+
+</urlset>
