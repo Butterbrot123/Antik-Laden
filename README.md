@@ -1,6 +1,6 @@
 Hi there ✋!
 
-I made a website for an Antique Store with React and Vite.
+I made a website for an antique store with React and Vite.
 
 # React + Vite
 
