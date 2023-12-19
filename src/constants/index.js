@@ -3,7 +3,7 @@ import {
   support,
   truckFast,
 } from "../assets/icons";
-import { coins, postcard, clock, schmuck, Fotoalben } from "../assets/images";
+import { coins, postcard, orden, postkartenalben, clock, besteck, pommern, schmuck, bierkrug, schallplatten, Bücher, Fotoalben, bernstein, briefmarken, foto, feldpost, geld, kolonien,signiert, skulptur, füller, modeheft, anstecknadeln, ring, Schlesien, ostpreussen, taschenuhr } from "../assets/images";
 
 export const navLinks = [
   { href: "/", label: "Startseite" },
@@ -60,33 +60,33 @@ export const products = [
     description: "Wir kaufen ihren Schmuck. Echten und Modeschmuck. "
   },
   {
-    imgURL: schmuck,
+    imgURL: signiert,
     name: "Autogramme ",
     description: "Wir kaufen alte Autogrammkarten und prominente korrisprondenz. "
   },
   {
-    imgURL: schmuck,
+    imgURL: schallplatten,
     name: "Schallplatten ",
     description: "Wir kaufen ihre Schallplatten Sammlung, Deutschsprachig und auch international.  "
   },
   {
-    imgURL: schmuck,
+    imgURL: briefmarken,
     name: "Briefmarken",
     description: "Wir kaufen Briefmarken aller Art, von Anfängersammlunger bis zum hochwertigten luxus Sammlungen. Wir kaufen Deutsche Briefmarken als auch International. "
   },
 
   {
-    imgURL: schmuck,
+    imgURL: orden,
     name: "Orden",
     description: "Wir kaufen Orden aller Art. Aus alte deutsche Orten, auch aus dem zweiten Weltkrieg und ersten Weltkrieg, sowie Bundeswehr, DDR, sowie Internationale Orden und Ehrenzeichen."
   },
   {
-    imgURL: coins,
+    imgURL: foto,
     name: "Alte Fotos",
     description: "Wir kaufen Fotos aller Art aus kriegszeiten als auch Friedenszeiten. Auch gerne ganze Alben und größere Sammlungen, sowie Fotonegative. "
   },
   {
-    imgURL: coins,
+    imgURL: bernstein,
     name: "Bernstein",
     description: "Bernstein kaufen wir gerne verarbeitet als Schmuckstück, zum Beispiel: Bernsteinkette, Bernsteinanhänger, Bernsteinohrringe oder Bernsteinobjekte  "
   },
@@ -96,83 +96,83 @@ export const products = [
     description: "Fotoalben sind echte Erinnungsstücke, gerne ob aus Kriegzeiten und auch Friedenszeiten.  "
   },
   {
-    imgURL: coins,
+    imgURL: postkartenalben,
     name: "Postkartenalben",
     description: "Wir kaufen Postkarten aus Nah und fern. Einzelstücke wie auch ganzen Alben"
   },
   {
-    imgURL: coins,
+    imgURL: anstecknadeln,
     name: "Anstecknadeln",
     description: "Wir kaufen Anstecknadeln aller Art als der Militairzeit, Sport, Beruf, Freizeit und weiteren. "
   },
   {
-    imgURL: coins,
+    imgURL: füller,
     name: "Alte Füller",
     description: "Wir kaufen ihre Schulfüller und Opa's Füller und Uropa's Füller"
   },
   {
-    imgURL: coins,
+    imgURL: Bücher,
     name: "Alte Bücher",
     description: "Wir kaufen alte Bücher und auch Fotoalben."
   },
   {
-    imgURL: coins,
+    imgURL: bierkrug,
     name: "Alte Bierkrüge",
     description: "Wir kaufen alte Bierkrüge, reservisten Krüge, Studentika Krüge, von jung bis alt. "
   },
   {
-    imgURL: coins,
+    imgURL: ostpreussen,
     name: "Ostpreußen",
     description: "Erinnerungstücke aus Ostpreußen"
   },
   {
-    imgURL: coins,
+    imgURL: pommern,
     name: "Pommern",
     description: "Erinnerungsstücke aus Pommern."
   },
   {
-    imgURL: coins,
+    imgURL: Schlesien,
     name: "Schlesien",
     description: "Erinnerungstücke aus Schlesien."
   },
   {
-    imgURL: coins,
+    imgURL: kolonien,
     name: "Kolonien",
     description: "Erinnerungstücke aus den Kolonien."
   },
   {
-    imgURL: coins,
+    imgURL: taschenuhr,
     name: "Uhren/Taschenuhren",
     description: "Wir kaufen Uhren, Taschenuhren aller Art auch reparturbedürftiger als auch Taschenuhrenketten sind von interesse."
   },
   {
-    imgURL: coins,
+    imgURL: skulptur,
     name: "Alte Figuren",
     description: "Wir kaufen bronze Figuren, geschnitze Figuren usw."
   },
   {
-    imgURL: coins,
+    imgURL: ring,
     name: "Ringe und Ketten",
     description: "Wir kaufen echten Schmuck als auch Modeschmuck von perfekten Zustand bis reperaturbedürftiger Erhaltung. Auch moderne Schmuck wird angekauft. "
   },
   {
-    imgURL: coins,
+    imgURL: feldpost,
     name: "Kriegerinnerungen",
     description: "Wir kaufen Kriegerinnerungen aller Art: Foto's, Feldpost, Orden, Helme, Uniforme, Urkunden, Wehrpässe usw."
   },
   {
-    imgURL: coins,
+    imgURL: geld,
     name: "Alte Geldscheine",
     description: "Wir kaufen deutsche als internationale Geldscheine, auch größere Sammlungen möglich."
   },
   {
-    imgURL: coins,
+    imgURL: modeheft,
     name: "Alte Modehefte",
     description: "Wir kaufen Modehefte, Schnittmuster, Modekataloge aller Art."
   },
   {
-    imgURL: coins,
-    name: "Bestecke",
+    imgURL: besteck,
+        name: "Bestecke",
     description: "Wir kaufen gerne Bestecke komplett oder auch als Einzelstücke"
   },
 
