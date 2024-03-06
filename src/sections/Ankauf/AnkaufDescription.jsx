@@ -21,11 +21,9 @@ const SuperQuality = () => {
             <span className="text-dark-red"> Ankauf</span>
           </h2>
           <p className="mt-4 lg:max-w-lg info-text">
-          Unsere Leidenschaft gilt der fortwährenden Entdeckung faszinierender Antiquitäten.
-          Wir erwerben vielfältige Schätze wie Gemälde, Möbel, Glas, Kristall, Keramik, Skulpturen, Schmuck und Uhren.
-          Auch vollständige Nachlässe und Sammlungen nehmen wir gerne in unseren Bestand auf.
-          Uns begeistern Kunstgegenstände und Werke aus sämtlichen Epochen, von der Gotik bis zur Moderne.
-
+          Unsere Leidenschaft liegt in der ständigen Entdeckung faszinierender Antiquitäten. 
+          Wir erwerben eine vielfältige Auswahl an Schätzen, darunter Gemälde, Möbel, Glas, Kristall, Keramik, Skulpturen, Schmuck und Uhren. 
+          Vollständige Nachlässe und Sammlungen nehmen wir ebenso gerne in unseren Bestand auf. Wir sind von Kunstgegenständen und Werken sämtlicher Epochen begeistert, von der Gotik bis zur Moderne.
           </p>
           <div className='mt-6 flex max-sm:justify-center items-center max-sm:w-full'>
           

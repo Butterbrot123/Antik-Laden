@@ -11,10 +11,8 @@ const PopularProducts = () => {
           <span className="text-coral-red"> Kaufen</span> wir gerne ein?
         </h2>
         <p className="lg:max-w-lg mt-2 font-montserrat text-light-yellow">
-          Unsere Leidenschaft gilt vor allem dem Ankauf von Postkarten, Orden,
-          alten Fotos und weiteren bezaubernden Schätzen. Darüber hinaus sind
-          wir stets auf der Suche nach anderen einzigartigen Fundstücken von
-          ästhetischem Wert.
+        Unsere Leidenschaft liegt vor allem im Ankauf von Postkarten, Orden, alten Fotos und anderen bezaubernden Schätzen. 
+        Zudem sind wir kontinuierlich auf der Suche nach weiteren einzigartigen Fundstücken von ästhetischem Wert.
         </p>
       </div>
 
